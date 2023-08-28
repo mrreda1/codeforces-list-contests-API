@@ -7,6 +7,7 @@ import hashlib
 import random
 
 
+
 def main():
     """ To get your API-key visit codeforces.com/settings/api
     Then click on 'Add API key' then pass your key and secret
