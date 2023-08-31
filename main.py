@@ -12,8 +12,8 @@ def main():
     Then click on 'Add API key' then pass your key and secret
     For more info about API visit codeforces.com/apiHelp ."""
 
-    contests_list("7a02319483eec5807c2d283c6420c7a77bfa3672",
-                  "a45591ebc3ac1cc55685df64e222233566caa069")
+    contests_list("YOUR_API",
+                  "YOUR_SECRET")
 
 
 def contests_list(apiKey, secret):
